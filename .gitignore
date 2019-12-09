@@ -58,11 +58,11 @@ typings/
 .env
 
 # data
-data/database.db
-data/config.json
-data/log*.txt
-data/state.json
+#data/database.db
+#data/config.json
+#data/log*.txt
+#data/state.json
 data/log
-data-backup/
-data/coordinator_backup.json
-data/.storage
+#data-backup/
+#data/coordinator_backup.json
+#data/.storage
