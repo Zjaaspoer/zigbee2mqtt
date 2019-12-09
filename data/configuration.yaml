@@ -2,7 +2,7 @@ homeassistant: true
 mqtt:
   base_topic: zigbee2mqtt
   password: mqtt
-  server: mqtt://zerop-server.duckdns.org
+  server: 'mqtt://zerop-server.duckdns.org'
   user: mqtt
 permit_join: true
 serial:
