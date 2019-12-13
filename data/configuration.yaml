@@ -7,3 +7,98 @@ mqtt:
 permit_join: true
 serial:
   port: /dev/tty.usbmodemL1100CQY1
+devices:
+  '0x00158d0002c5cd17':
+    friendly_name: '0x00158d0002c5cd17'
+  '0x00158d0002c95a46':
+    friendly_name: '0x00158d0002c95a46'
+  '0x00158d0002cb1057':
+    friendly_name: '0x00158d0002cb1057'
+  '0x00158d000233bbb9':
+    friendly_name: '0x00158d000233bbb9'
+  '0x00158d0002ead61a':
+    friendly_name: '0x00158d0002ead61a'
+  '0x00158d0002ebccba':
+    friendly_name: '0x00158d0002ebccba'
+  '0x00158d000314a9c9':
+    friendly_name: '0x00158d000314a9c9'
+  '0x00158d0002c9390a':
+    friendly_name: '0x00158d0002c9390a'
+  '0x00158d00032c18bc':
+    friendly_name: '0x00158d00032c18bc'
+  '0x00158d0002f3afcc':
+    friendly_name: '0x00158d0002f3afcc'
+  '0x00158d00032c1859':
+    friendly_name: '0x00158d00032c1859'
+  '0x00158d0002e9eb67':
+    friendly_name: '0x00158d0002e9eb67'
+  '0x00158d0002e9eb7b':
+    friendly_name: '0x00158d0002e9eb7b'
+  '0x00158d0002ebd6a9':
+    friendly_name: '0x00158d0002ebd6a9'
+  '0x00158d0002e24d07':
+    friendly_name: '0x00158d0002e24d07'
+  '0x00158d0002ebd6bc':
+    friendly_name: '0x00158d0002ebd6bc'
+  '0x00158d000309f15a':
+    friendly_name: '0x00158d000309f15a'
+  '0x00158d0002e9e691':
+    friendly_name: '0x00158d0002e9e691'
+  '0x00158d0002e22803':
+    friendly_name: '0x00158d0002e22803'
+  '0x00158d00023ce4f9':
+    friendly_name: '0x00158d00023ce4f9'
+  '0x00158d0002e2bbf3':
+    friendly_name: '0x00158d0002e2bbf3'
+  '0x00158d00025d6754':
+    friendly_name: '0x00158d00025d6754'
+  '0x00158d00025e9dcf':
+    friendly_name: '0x00158d00025e9dcf'
+  '0x00158d00025ece14':
+    friendly_name: '0x00158d00025ece14'
+  '0x00158d0002b8e2eb':
+    friendly_name: '0x00158d0002b8e2eb'
+  '0x00158d0002e2bcb7':
+    friendly_name: '0x00158d0002e2bcb7'
+  '0x00158d0002e290a9':
+    friendly_name: '0x00158d0002e290a9'
+  '0x00158d0002e6d513':
+    friendly_name: '0x00158d0002e6d513'
+  '0x00158d0002e290a0':
+    friendly_name: '0x00158d0002e290a0'
+  '0x00158d0002403089':
+    friendly_name: '0x00158d0002403089'
+  '0x000d6ffffead8fc5':
+    friendly_name: '0x000d6ffffead8fc5'
+  '0x000d6ffffec7d9c5':
+    friendly_name: '0x000d6ffffec7d9c5'
+  '0x000d6ffffef944eb':
+    friendly_name: '0x000d6ffffef944eb'
+  '0x000d6ffffef338d9':
+    friendly_name: '0x000d6ffffef338d9'
+  '0x90fd9ffffeed3087':
+    friendly_name: '0x90fd9ffffeed3087'
+  '0x00158d00013dcd1e':
+    friendly_name: '0x00158d00013dcd1e'
+  '0x0017880100fe4c3b':
+    friendly_name: '0x0017880100fe4c3b'
+  '0x0017880100fe5292':
+    friendly_name: '0x0017880100fe5292'
+  '0x00158d0002cb1027':
+    friendly_name: '0x00158d0002cb1027'
+  '0x000b57fffeec29c1':
+    friendly_name: '0x000b57fffeec29c1'
+  '0x0017880100e344a5':
+    friendly_name: '0x0017880100e344a5'
+  '0x0017880100fc09ff':
+    friendly_name: '0x0017880100fc09ff'
+  '0xd0cf5efffec26db9':
+    friendly_name: '0xd0cf5efffec26db9'
+  '0x000b3cfffef191c3':
+    friendly_name: '0x000b3cfffef191c3'
+  '0x00158d0002bfc632':
+    friendly_name: '0x00158d0002bfc632'
+  '0x00158d0002e21001':
+    friendly_name: '0x00158d0002e21001'
+  '0x00158d0002bfc47f':
+    friendly_name: '0x00158d0002bfc47f'
